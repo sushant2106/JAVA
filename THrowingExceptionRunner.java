@@ -1,6 +1,6 @@
 import java.util.*;
 
-
+//Uncheked Exception RuntimeException
 class Amount{
     private String currency;
     private int amount;
