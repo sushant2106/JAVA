@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, All Java Sytax Code/h1>
+<h1 align="center">Hi 👋, All Java Sytax Code</h1>
