@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="net.engineeringdigest.journalApp.service.UserServiceTest" time="0.01" tests="4" errors="0" skipped="4" failures="0">
+  <properties/>
+  <testcase name="test(int, int, int)" classname="net.engineeringdigest.journalApp.service.UserServiceTest" time="0.0">
+    <skipped message="class net.engineeringdigest.journalApp.service.UserServiceTest is @Disabled"/>
+  </testcase>
+  <testcase name="testFinByUserName2(String)" classname="net.engineeringdigest.journalApp.service.UserServiceTest" time="0.0">
+    <skipped message="class net.engineeringdigest.journalApp.service.UserServiceTest is @Disabled"/>
+  </testcase>
+  <testcase name="testfindByUserName" classname="net.engineeringdigest.journalApp.service.UserServiceTest" time="0.0">
+    <skipped message="class net.engineeringdigest.journalApp.service.UserServiceTest is @Disabled"/>
+  </testcase>
+  <testcase name="testSaveNewUser(User)" classname="net.engineeringdigest.journalApp.service.UserServiceTest" time="0.0">
+    <skipped message="class net.engineeringdigest.journalApp.service.UserServiceTest is @Disabled"/>
+  </testcase>
+</testsuite>

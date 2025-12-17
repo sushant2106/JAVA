@@ -24,6 +24,10 @@ public class JournalEntry {
     private String content;
     private LocalDateTime date;
 
+//    public static boolean isPresent() {
+//
+//    }
+
 
 //    public LocalDateTime getDate() {
 //        return date;
