@@ -6,7 +6,12 @@ spring:
       auto-index-creation: true
       allow-circular-references: true
 
+
 server:
   port: 8080
   servlet:
     context-path: /journal
+
+weather:
+  api:
+    key: 1f92c99c850e2f2dda04eeaddc9846ec

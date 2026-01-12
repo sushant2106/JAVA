@@ -8,9 +8,9 @@ import java.util.Optional;
 
 public interface UserRepository extends MongoRepository<User, ObjectId> {
 
-    User findByUserName(String username);
+    User findByUserName(String username);//Query Method DSL
+    //Method ka naam Query Ban Jaye
 
     void deleteByUserName(String username);
-
-
+    
 }
